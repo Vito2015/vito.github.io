@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "vito's techblog."
-subtitle: "Life is short, why u developing?"
-description: "as u know, this site just a place to let me balabala~~"
+title: "vitostack."
+subtitle: "Life is short, why you developing yet?"
+description: "hexo github.io "
 author: Vito
 language: zh-Hans
 timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http:vito.github.io
+url: http:vito2015.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -70,7 +70,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Vito2015/vito.github.io.git
+  repo: https://github.com/Vito2015/vito2015.github.io.git
   branch: gh-pages
   message: 
 
